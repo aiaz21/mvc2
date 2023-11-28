@@ -1,0 +1,16 @@
+1.  Java 8 and above, Springboot framework preferably.
+2.  Cloud, preferably AWS. 
+3.  Microservices architecture for quick productivity
+4.  Client interaction
+5.  Team management if possible
+6.  Good positive work environment
+7.  Billable position
+8.  Proper KT - Application functionality/design/architecture, application setup on local, CICD environment, Testing methodology etc.
+9.  Involvement in all phases of application
+10. If mentoring is expected, I need to be consulted for performance reviews/yearly appraisals. No bad review or PIP without my consultation. 
+11. No micromanagement or my way is highway type leadership
+
+Performance & Security Improvements
+Garbage Collector Improvements: Java manages heap memory for you. You run your application inside a virtual machine (JVM). The JVM does the work of allocating space when necessary and freeing it when it is no longer needed. The garbage collector (GC) is what does this work for you. Recycling memory involves garbage collection “cycles” that have an impact on performance.
+G1 GC is a default Garbage collector since Java 9. After incremental improvement GC in Java 11 is 60% better than earlier.
+Java 11 introduced Epsilon and the Z garbage collector (ZGC) and we can pick up better-suited GC for our application. 
